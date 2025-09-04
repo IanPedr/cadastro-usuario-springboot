@@ -39,19 +39,6 @@ Maven/Gradle configurado
 
 (Se necessário) Banco de dados rodando
 
-Passos:
-# Clonar o repositório
-git clone https://github.com/SEU-USUARIO/NOME-DO-REPO.git
-
-# Entrar na pasta do projeto
-cd NOME-DO-REPO
-
-# Rodar a aplicação
-./mvnw spring-boot:run
-
-
-A aplicação estará disponível em:
-👉 http://localhost:8080
 
 📬 Endpoints principais
 Método	Endpoint	Descrição
